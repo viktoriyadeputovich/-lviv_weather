@@ -61,7 +61,7 @@ h1{
 }
 
 img:hover {
-    transform: scale(120%);
+    transform: scale(1.2);
     transition: 5s;
     filter: grayscale()
   }
